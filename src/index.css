@@ -3,6 +3,7 @@ body {
   font-family: "Euclid Circular B", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: url("/public/bg-placeholder.jpg") no-repeat fixed center;
 }
 
 code {
